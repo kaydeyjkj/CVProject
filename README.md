@@ -1,2 +1,2 @@
 # CVProject
-My CV Designed with HTML + CSS.
+My CV Designed with HTML + CSS
